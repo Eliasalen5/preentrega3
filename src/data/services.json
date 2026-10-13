@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Consulta general",
+    "description": "Consulta médica general de 30 minutos",
+    "duration": 30,
+    "price": 5000,
+    "category": "salud",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Corte de cabello",
+    "description": "Corte de cabello con lavado y peinado",
+    "duration": 45,
+    "price": 3500,
+    "category": "belleza",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Asesoría legal",
+    "description": "Asesoría legal inicial de 60 minutos",
+    "duration": 60,
+    "price": 12000,
+    "category": "legal",
+    "available": false
+  }
+]
